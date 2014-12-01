@@ -7,14 +7,20 @@
   </url>
   <url>
     <loc>http://lrthw3rd.github.io/blog/archives/</loc>
-    <lastmod>2014-12-01T23:07:15+08:00</lastmod>
+    <lastmod>2014-12-02T06:30:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://lrthw3rd.github.io/</loc>
-    <lastmod>2014-12-01T23:07:15+08:00</lastmod>
+    <lastmod>2014-12-02T06:30:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://lrthw3rd.github.io/learn-ruby-the-hard-way-3rd/</loc>
+    <lastmod>2014-12-02T06:30:39+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
