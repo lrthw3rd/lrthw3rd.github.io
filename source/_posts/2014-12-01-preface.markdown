@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Preface"
+date: 2014-12-01 22:54:01 +0800
+comments: true
+categories: 
+---
+
+#Learn Ruby The Hard Way 3rd 正體中文版
+
+under consturcting...

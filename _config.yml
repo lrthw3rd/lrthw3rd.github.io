@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://lrthw3rd.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Learn Ruby The Hard Way 
+subtitle: 正體中文版 
+author: Tomo Hung 
 simple_search: https://www.google.com/search
 description:
 
@@ -98,4 +98,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true 
