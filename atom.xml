@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://lrthw3rd.github.io/atom.xml" rel="self"/>
   <link href="http://lrthw3rd.github.io/"/>
-  <updated>2014-12-01T22:46:48+08:00</updated>
+  <updated>2014-12-01T22:55:59+08:00</updated>
   <id>http://lrthw3rd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Preface]]></title>
+    <link href="http://lrthw3rd.github.io/blog/2014/12/01/preface/"/>
+    <updated>2014-12-01T22:54:01+08:00</updated>
+    <id>http://lrthw3rd.github.io/blog/2014/12/01/preface</id>
+    <content type="html"><![CDATA[<h1>Learn Ruby The Hard Way 3rd 正體中文版</h1>
+
+<p>under consturcting&hellip;</p>
+]]></content>
+  </entry>
   
 </feed>
